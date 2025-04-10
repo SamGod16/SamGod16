@@ -23,8 +23,8 @@
 
 ## 📈 Mis Estadísticas GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=dracula&hide=procfile)](https://github.com/SamGod16)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dracula)](https://github.com/SamGod16)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamGod16&layout=compact&theme=dracula&hide=procfile)](https://github.com/SamGod16)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamGod16&show_icons=true&theme=dracula)](https://github.com/SamGod16)
 
 ## 🔥 Sin Proyectos Destacados
 <!--1. **[Nombre Proyecto](https://github.com/tu-usuario/repo)** - Descripción breve (ej: Aplicación web con Java y MySQL)
