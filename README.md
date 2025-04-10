@@ -47,7 +47,7 @@
 
 ## 📫 ¿Cómo contactarme?
 ¡Hablemos de tecnología y oportunidades!
-- ✉️ Email: [tu-email@dominio.com](mailto:samumega.c@gmail.com)
+- ✉️ Email: [samumega.c@gmail.com](mailto:samumega.c@gmail.com)
 - 💼 LinkedIn: [Mi perfil](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)
 
 ---
